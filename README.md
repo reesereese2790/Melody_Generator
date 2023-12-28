@@ -1,4 +1,4 @@
-#LSTM Melody Generator
+LSTM Melody Generator
 Steps to Generate Random Melodies:
 1. Download kern score data set for folk songs here: https://kern.humdrum.org/cgi-bin/browse?l=essen/europa/deutschl
 2. Run preprocessing.py and func.py to preprocess dataset and create model.h5.
